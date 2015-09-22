@@ -5,3 +5,6 @@ Did you talk to " Chatur Ramalingam" recently ?
 
 rather
  Have you spoken to him ?
+
+hey ... i am able to sync the changes 
+and view it on github site
