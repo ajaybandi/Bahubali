@@ -8,3 +8,5 @@ rather
 
 hey ... i am able to sync the changes 
 and view it on github site
+
+when should i use pull request?
